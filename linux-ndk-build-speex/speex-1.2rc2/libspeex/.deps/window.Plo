@@ -1,0 +1,31 @@
+window.lo: window.c ../config.h arch.h ../include/speex/speex_types.h \
+ ../include/speex/speex_config_types.h \
+ /data/home/wangyanan/android-ndk-r13/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include/stdint.h \
+ /home/wangyanan/android-ndk-r13//platforms/android-9/arch-arm/usr/include/stdint.h \
+ /data/home/wangyanan/android-ndk-r13/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include/stddef.h \
+ /home/wangyanan/android-ndk-r13//platforms/android-9/arch-arm/usr/include/sys/_types.h \
+ /home/wangyanan/android-ndk-r13//platforms/android-9/arch-arm/usr/include/machine/_types.h \
+ /home/wangyanan/android-ndk-r13//platforms/android-9/arch-arm/usr/include/sys/_wchar_limits.h \
+ /home/wangyanan/android-ndk-r13//platforms/android-9/arch-arm/usr/include/android/api-level.h
+
+../config.h:
+
+arch.h:
+
+../include/speex/speex_types.h:
+
+../include/speex/speex_config_types.h:
+
+/data/home/wangyanan/android-ndk-r13/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include/stdint.h:
+
+/home/wangyanan/android-ndk-r13//platforms/android-9/arch-arm/usr/include/stdint.h:
+
+/data/home/wangyanan/android-ndk-r13/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include/stddef.h:
+
+/home/wangyanan/android-ndk-r13//platforms/android-9/arch-arm/usr/include/sys/_types.h:
+
+/home/wangyanan/android-ndk-r13//platforms/android-9/arch-arm/usr/include/machine/_types.h:
+
+/home/wangyanan/android-ndk-r13//platforms/android-9/arch-arm/usr/include/sys/_wchar_limits.h:
+
+/home/wangyanan/android-ndk-r13//platforms/android-9/arch-arm/usr/include/android/api-level.h:
